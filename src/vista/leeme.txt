@@ -1,0 +1,3 @@
+Carpeta que contiene los archivos para la vista de las páginas del servidor.
+Estos archivos son sólo los archivos que requieren de un proceso de compilación para su envió al cliente.
+Estos archivos tienen como extensión ".ejs" un formato para la compilación de código HTML por javascript.
