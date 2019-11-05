@@ -1,0 +1,3 @@
+Carpeta que contiene los archivos públicos del servidor.
+Estos archivos son sólo los archivos que pueden ser llamados para el uso libre del cliente y son de carácter público.
+Estos archivos tienen como extensión ".css, .js, .jpg y otros" siendo formatos variados desde hojas de estilos, archivos javascript para la interfaz y varios archivos multimedia.
